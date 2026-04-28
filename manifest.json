@@ -8,7 +8,7 @@
       "minecraftVersion": "1.20.1",
       "loader": "forge",
       "forgeVersion": "47.3.22",
-      "packVersion": "1.0.2",
+      "packVersion": "1.0.1",
       "zipUrl": "https://github.com/NoriaStudio/noria-launcher-packs/releases/download/embotellados-v1.0.0/embotellados-pack-1.0.0.zip",
       "description": "Primera serie oficial de Noria Studio."
     }
